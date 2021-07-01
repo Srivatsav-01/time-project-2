@@ -1,0 +1,22 @@
+body
+{
+  background-color: black;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  color: white;
+
+
+}
+
+.clock
+{font-size: 100px;
+    color: #fff;
+    padding: 40px;
+    margin: 10px;
+    background-color: rgb(54, 52, 52);
+    border-radius: 10px;
+
+}
